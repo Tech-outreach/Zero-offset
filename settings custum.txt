@@ -10,9 +10,3 @@ m500
 
 Esteps  
 M92 E*******
-
-
-
-ENABLE_LEVELING_FADE_HEIGHT
-
-http://192.168.1.9/webcam/?action=stream
