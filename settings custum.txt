@@ -1,0 +1,18 @@
+m502
+m500
+g28
+G1 F60 Z0
+M211 S0
+M851 Z-*******
+m500
+
+
+
+Esteps  
+M92 E*******
+
+
+
+ENABLE_LEVELING_FADE_HEIGHT
+
+http://192.168.1.9/webcam/?action=stream
